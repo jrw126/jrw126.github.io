@@ -2,7 +2,8 @@
 
 title:            John Wright's Website
 locale:           en_US
-url:
+url:			  http://jrw126.github.io
+# url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -41,9 +42,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: John Wright
+  avatar: bio-photo-3.jpg
+  bio: "Master of Statistics student at KU Leuven. Data Scientist. Gamer. Traveler. Website owner"
   email:
   disqus-shortname:
   twitter: #username
@@ -55,7 +56,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: jrw126
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
