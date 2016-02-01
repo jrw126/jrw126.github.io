@@ -9,8 +9,8 @@ comments: false
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)
 ---
 
-> ### Data Scientist
+> ### Data analyst
 
-The purpose of this site is to share my analyses that I think are interesting. I'll share my code and outline my reasoning for the steps I've taken. I hope that by sharing these online, others will find something useful or interesting here.
+This site is a home for my analyses, visualizations and the occasional rant. I hope that by sharing my analyses and code online, others will find something interesting or useful.
 
-I am a student in the Master of Statistics programme at the KU Leuven in Belgium. Prior to that I was a Senior Data Analyst at Glass, Lewis & Co. I earned my BS in Finance at California State University, Northridge. My interests include data science, machine learning, statistics, video games, nature, diving and travel. I'm from Santa Barbara, California.
+I am a student in the Master of Statistics programme at KU Leuven in Belgium. Prior to that I was a Senior Data Analyst at Glass, Lewis & Co. I earned my BS in Finance at California State University, Northridge. My interests include data science, machine learning, statistics, games, nature, diving and travel. I'm from Santa Barbara, California.
